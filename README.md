@@ -1,2 +1,3 @@
 # hello-world
-just other repository
+
+hi i'm jc i'like code Please help me
